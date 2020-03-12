@@ -1,0 +1,2 @@
+# quincena-simetrica
+Trabajar 
